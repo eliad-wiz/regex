@@ -68,8 +68,8 @@ use_std = ["std"]
 # worth it.
 perf = [
   "perf-cache",
-  "perf-dfa",
-  "perf-onepass",
+  # "perf-dfa",
+  # "perf-onepass",
   "perf-backtrack",
   "perf-inline",
   "perf-literal",
